@@ -85,3 +85,4 @@ order.getCurrentState().verifyPayment();
 order.getCurrentState().shipOrder();
 order.getCurrentState().cancelOrder();
 console.log("Order state: " + order.getCurrentState().constructor.name);
+//# sourceMappingURL=state.js.map

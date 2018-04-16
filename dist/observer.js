@@ -53,3 +53,4 @@ var display = new TemperatureDisplay(weatherstation);
 var fan = new Fan(weatherstation);
 weatherstation.setTemperature(20);
 weatherstation.setTemperature(30);
+//# sourceMappingURL=observer.js.map

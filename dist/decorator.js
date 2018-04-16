@@ -85,3 +85,4 @@ tesla = new RearFacingSeats(tesla);
 tesla = new EnhancedAutoPilot(tesla);
 console.log(tesla.cost());
 console.log(tesla.getDescription());
+//# sourceMappingURL=decorator.js.map

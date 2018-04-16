@@ -28,3 +28,4 @@ var LightningToMicroUSBAdapter = /** @class */ (function () {
 var iphone = new Iphone8();
 var adapter = new LightningToMicroUSBAdapter(iphone);
 adapter.useMicroUSB();
+//# sourceMappingURL=adapter.js.map
